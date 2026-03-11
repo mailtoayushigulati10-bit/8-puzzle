@@ -1,0 +1,23 @@
+/* ─────────────────────────────────────────────
+   PLAY PAGE STYLES
+   ───────────────────────────────────────────── */
+
+.play-page {
+  gap: 16px;
+  max-width: 420px;
+  width: 100%;
+  padding: 20px 16px 32px;
+  margin: 0 auto;
+}
+
+.play-title {
+  font-size: 22px;
+  font-weight: 800;
+  color: #c4b5fd;
+}
+
+.play-controls {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+}
